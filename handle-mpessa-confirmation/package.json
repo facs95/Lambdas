@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "base-64": "^0.1.0",
     "common": "ssh:git@github.com:sergey-shevchuk/fon-bnk-common.git",
     "jsonwebtoken": "^8.4.0",
